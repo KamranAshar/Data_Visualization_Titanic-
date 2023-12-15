@@ -11,8 +11,8 @@ Outlier Treatment: Implement outlier treatment methods to enhance the robustness
 The Titanic dataset is sourced from Seaborn's built-in datasets and includes information about passengers on the Titanic, such as age, class, fare, and survival status.
 
 # Dependencies-
-Python 3
-Jupyter Notebooks
-Pandas
-Seaborn
-Matplotlib
+Python 3,
+Jupyter Notebooks,
+Pandas,
+Seaborn,
+Matplotlib.
